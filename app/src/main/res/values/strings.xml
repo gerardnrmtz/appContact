@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="titulo_busqueda">Buscar contacto</string>
+    <string name="titulo_switch">Cambiar vista</string>
+    <string name="titulo_nuevo">Nuevo contacto</string>
+    <string name="titulo_edad">Edad</string>
+    <string name="titulo_peso">Peso</string>
+    <string name="titulo_telefono">telefono</string>
+    <string name="titulo_email">email</string>
+    <string name="titulo_direccion">Direccion</string>
+    <string name="nuevo_contacto">Crear nuevo contacto</string>
+    <string name="titulo_eliminar_contacto">eliminar contacto</string>
+    <string name="titulo_editar">Editar Contacto</string>
+
+</resources>
